@@ -361,12 +361,4 @@ Built with modern web technologies and inspired by leading video platforms. Spec
 [⭐ Star this repo](https://github.com/your-repo/pronax) • [🐛 Report issues](https://github.com/your-repo/pronax/issues) • [📖 Documentation](https://github.com/your-repo/pronax/wiki)
 
 </div>
-#   p r o n a x  
- #   p r o n a x  
- #   P r o - N a x  
- #   P r o - N a x  
- #   P r o - N a x  
- #   P r o - N a x  
- #   P r o - N a x  
- #   P r o - N a x  
- 
+#
