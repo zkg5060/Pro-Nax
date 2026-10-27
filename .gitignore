@@ -1,0 +1,46 @@
+# Local envs
+.env
+
+# Supabase temp secrets
+supabase/.temp/
+
+# FFmpeg binaries (optional - uncomment if you want to add ffmpeg to your repo)
+# ffmpeg/
+ffmpeg.zip
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+.dist-ssr
+.output
+.vinxi
+.tanstack/**
+.nitro
+*.local
+
+# Wrangler / Cloudflare
+.wrangler/
+.dev.vars
+
+# Editor directories and files
+# .vscode/*
+# !.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Large backup files
+temp_dump.sql
+python-services-backup/
